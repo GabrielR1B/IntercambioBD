@@ -12,7 +12,6 @@ st.write("## ⚠️ ATENÇÃO: Esse não é um Banco de Dados de vagas que estã
 st.write("## ⚠️ ATENÇÃO: Esse foi um esforço voluntário de uma pessoa, e a qualidade de acesso às informações sobre as universidades pode variar muito. Portanto, sempre faça checagem dos fatos depois da sua pesquisa.")
 
 # Seção: Dicionário de Dados
-# Seção: Dicionário de Dados
 st.write("## 📖 Dicionário de Dados")
 with st.expander("Clique aqui para visualizar a descrição das colunas 📚"):
     st.markdown("""
