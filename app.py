@@ -8,6 +8,7 @@ dados = pd.read_csv('Universidades_Geral.csv')
 st.title('Banco de Dados: Intercâmbio-UFMG ✈️')
 st.write('Banco de Dados Criado para facilitar a procura e pesquisa de informações envolvendo intercâmbios pela UFMG.')
 st.write('Esse Banco de Dados contém informações sobre todas as universidades que ofereceram vagas para intercâmbio pela UFMG desde 2024. O intuito desse banco é auxiliar no processo de pesquisa de uma universidade ideal para os alunos.')
+st.write("## ⚠️ ATENÇÃO: Esse não é um Banco de Dados de vagas que estão sendo oferecidas mas de universidades que ne algum momento ja ofereceram vagas, para encontrar o quadro de vagas de intercambio atual consulte o site da DRI, o intuito aqui é somente agrupar informaçoes uteis para facilitar pesquisas.")
 st.write("## ⚠️ ATENÇÃO: Esse foi um esforço voluntário de uma pessoa, e a qualidade de acesso às informações sobre as universidades pode variar muito. Portanto, sempre faça checagem dos fatos depois da sua pesquisa.")
 
 # Seção: Dicionário de Dados
